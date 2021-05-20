@@ -92,8 +92,8 @@ function generateMarkdown(output) {
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#contributing)
-  - [License](#License)
   - [Questions](#questions)
+  - [License](#License)
 
   ## Installation 
   ${output.installation}
@@ -108,8 +108,8 @@ function generateMarkdown(output) {
   ${output.contributing}
 
   ## Questions 
-  If you have any questions reach out to me at:
-  https://github.com/${output.github}
+  If you have any questions reach out to me at: </br>
+  Github: https://github.com/${output.github} </br>
   Email: ${output.email}
   
   ## License
