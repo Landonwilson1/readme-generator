@@ -25,8 +25,8 @@
   N/A
 
   ## Questions 
-  If you have any questions reach out to me at: /n
-  Github: https://github.com/Landonwilson1 /n
+  If you have any questions reach out to me at: </br>
+  Github: https://github.com/Landonwilson1 </br>
   Email: Landonjwilson1@gmail.com
   
   ## License
