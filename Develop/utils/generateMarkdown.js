@@ -34,7 +34,6 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   switch (license) {
       case "Apache":
-          // code block
           return `
 Copyright [yyyy] [name of copyright owner]
 Licensed under the Apache License, Version 2.0 (the "License");
