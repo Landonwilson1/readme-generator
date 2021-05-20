@@ -3,20 +3,20 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Desciption 
-  This application uses Javascript, node, and inquier to provide a series of questions for the user. Afterthe user answers all question a professional README will be created
+  This application uses Javascript, node, and inquier to provide a series of questions for the user to create a README file. After the user answers all question a professional README will be created.
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#contributing)
-  - [License](#License)
   - [Questions](#questions)
+  - [License](#License)
 
   ## Installation 
   Enter npm init in the terminal. After npm in installed, install inquier by wentering npm install inquirer
 
   ## Usage 
-  Enter npm init in the terminal. After npm in installed, install inquier by wentering npm install inquirer
+  N/A
 
   ## Tests 
   N/A
