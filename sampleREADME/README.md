@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Desciption 
-  sample purposes only
+  for sample purposes only 
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,7 +13,7 @@
   - [License](#License)
 
   ## Installation 
-  enter node index.js in terminal
+  type node index.js in terminal 
 
   ## Usage 
   n/a
