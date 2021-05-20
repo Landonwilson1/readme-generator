@@ -99,7 +99,7 @@ function generateMarkdown(output) {
   ${output.installation}
 
   ## Usage 
-  ${output.installation}
+  ${output.usage}
 
   ## Tests 
   ${output.tests}
