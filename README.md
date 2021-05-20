@@ -3,7 +3,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Desciption 
-  This application uses Javascript, node, and inquirer to provide a series of questions for the user to create a README file. After the user answers all questions, a professional README will be created.
+  This application uses Javascript, node, and inquirer to provide a series of questions for the user to create a README file. After the user answers all questions, a professional README will be created. 
+  
+  screen recording: https://drive.google.com/file/d/1B70BB3Gq2hDv_UYUIs65wixZGzAqM9Pn/view?usp=sharing
 
   ## Table of Contents
   - [Installation](#installation)
