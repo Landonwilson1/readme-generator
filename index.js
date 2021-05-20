@@ -20,13 +20,11 @@ const questions = [
         type: 'input',
         message: 'Please provied installation instructions:',
         name: 'installation'
-
     },
     {
         type: 'input',
         message: 'Enter any usage instructions:',
         name: 'usage'
-        
     },
     {
         type: 'input',
