@@ -16,7 +16,7 @@
   Enter 'npm init' in the terminal. After npm in installed, install inquirer by entering npm 'install inquirer'
 
   ## Usage 
-  N/A
+  Enter 'node index.js' in terminal to start application
 
   ## Tests 
   N/A
